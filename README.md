@@ -9,7 +9,7 @@
 
 - Me encanta Programar, trabaje y estoy trabajando en multiples proyectos que podés ver en mi perfil de GitHub :tw-1f497:
 
-- Disfruto trabajar en equipo, en proyectos que te desafien y obligen a aprender nuevas herramientas para abordar los problemas. :fa-cogs:
+- Disfruto trabajar en equipo, en proyectos que te desafien y obligen a aprender nuevas herramientas para abordar los problemas. :family:
 
 - Languages y herramientas:
 
