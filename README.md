@@ -3,13 +3,13 @@
 ****
 > sobre mi!
 
-- Soy de Buenos Aires, Argentina :fa-hand-o-left:
+- Soy de Buenos Aires, Argentina :house:
 
-- Terminando de cursar en [SoyHenry.com](https://www.soyhenry.com/ "SoyHenry.com") :fa-rocket:
+- Terminando de cursar en [SoyHenry.com](https://www.soyhenry.com/ "SoyHenry.com") :tea:
 
-- Me encanta Programar, trabaje y estoy trabajando en multiples proyectos que podés ver en mi perfil de GitHub :tw-1f497:
+- Me encanta Programar, trabaje y estoy trabajando en multiples proyectos que podés ver en mi perfil de GitHub :blue_heart:
 
-- Disfruto trabajar en equipo, en proyectos que te desafien y obligen a aprender nuevas herramientas para abordar los problemas. :family:
+- Disfruto trabajar en equipo, en proyectos que te desafien y obligen a aprender nuevas herramientas para abordar los problemas. :gift_heart:
 
 - Languages y herramientas:
 
