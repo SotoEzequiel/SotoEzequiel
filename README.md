@@ -11,6 +11,14 @@
 
 - Disfruto trabajar en equipo, en proyectos que te desafien y obligen a aprender nuevas herramientas para abordar los problemas. :gift_heart:
 
+- Contactame por [LinkedIn](https://www.linkedin.com/in/ezequiel-soto/ "LinkedIn")
+
+- Contactame por Email : Ezequiel_Soto_f4@hotmail.com
+
+- Contactame por [Facebook](https://www.facebook.com/ezequiel.soto.967422 "Facebook")
+
+- Mi numero: 54 01126692648 (movil)
+
 - Languages y herramientas:
 
 ****
