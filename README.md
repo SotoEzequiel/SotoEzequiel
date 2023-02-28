@@ -5,7 +5,7 @@
 
 - Soy de Buenos Aires, Argentina :house:
 
-- Terminando de cursar en [SoyHenry.com](https://www.soyhenry.com/ "SoyHenry.com") :tea:
+- Siempre aprendiendo nuevas tecnologías!! 🍵
 
 - Me encanta Programar, trabaje y estoy trabajando en multiples proyectos que podés ver en mi perfil de GitHub :blue_heart:
 
