@@ -42,11 +42,3 @@
 <img src="https://img.icons8.com/color/48/000000/java.png" style="max-width: 100%;">
 </div>
 
-****
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotoezequiel&layout=compact)](https://github.com/sotoezequiel/github-readme-stats)
-
-****
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sotoezequiel&show_icons=true&theme=tokyonight)
