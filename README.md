@@ -13,7 +13,7 @@
 
 - Contactame por [LinkedIn](https://www.linkedin.com/in/ezequiel-soto/ "LinkedIn")
 
-- Contactame por Email : Ezequiel_Soto_f4@hotmail.com
+- Contactame por Email : antonioezequielsoto@gmail.com
 
 - Contactame por [Facebook](https://www.facebook.com/ezequiel.soto.967422 "Facebook")
 
